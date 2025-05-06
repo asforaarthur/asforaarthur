@@ -18,9 +18,6 @@
   - Web development (Python, Django, Streamlit)
   - Data engineering (ETL pipelines, SQL, Pandas)
 
-- 💻 Programming Languages:
-  - Python | Java | C | MATLAB | HTML/CSS | JavaScript
-
 - 🌍 Multicultural experience combining Brazilian and French engineering education
 
 ---
@@ -29,11 +26,11 @@
 
 - 🌿 **IoT Plant Monitoring System**  
   ESP32 + RTOS + Supabase + Streamlit to track temperature, humidity, and soil moisture.  
-  > [Check it out here](https://github.com/asforaarthur/pmr3402_projeto_planta)
+  > [Check it out here](https://github.com/asforaarthur/PMR3402_Greenhouse_Project)
 
 - 📊 **Investment Blog with Django**  
   Web app to post and categorize investment articles with a built-in comment system.  
-  > [Live Demo](https://investmentsite.onrender.com) | [GitHub Repo](https://github.com/asforaarthur/investmentsite)
+  > [Take a look](https://github.com/asforaarthur/PMR3304_Investment_Info_Website)
 
 ---
 
