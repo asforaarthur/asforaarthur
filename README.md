@@ -8,7 +8,7 @@
 
 ## 🧑‍🎓 About Me
 
-- 🎓 **Double degree student**:
+- 🎓 **Double degree engineering undergraduate student**:
   - Mechatronics Engineering at [Escola Politécnica – University of São Paulo (USP)](https://www.poli.usp.br) 🇧🇷  
   - Automatic control and Intelligent Systems at [Grenoble INP – Ense³](https://ense3.grenoble-inp.fr/) 🇫🇷
 
@@ -25,7 +25,7 @@
 
 ---
 
-## 🔭 Current Projects
+## 🔭 Some Projects
 
 - 🌿 **IoT Plant Monitoring System**  
   ESP32 + RTOS + Supabase + Streamlit to track temperature, humidity, and soil moisture.  
@@ -34,9 +34,6 @@
 - 📊 **Investment Blog with Django**  
   Web app to post and categorize investment articles with a built-in comment system.  
   > [Live Demo](https://investmentsite.onrender.com) | [GitHub Repo](https://github.com/asforaarthur/investmentsite)
-
-- 🧪 Control System Simulations  
-  Designing and tuning controllers using MATLAB/Simulink for dynamic systems.
 
 ---
 
