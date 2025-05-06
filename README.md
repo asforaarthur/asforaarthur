@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arthur</h1>
+<h1 align="center">👋 Hi folks, I'm Arthur</h1>
 
 <p align="center">
   <em>Engineering student passionate about building systems that are <strong>intelligent</strong>, <strong>connected</strong>, and <strong>data-driven</strong>.</em>
